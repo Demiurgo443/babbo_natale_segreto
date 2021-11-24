@@ -11,13 +11,16 @@ Occorrente:
 1 mail
 
 Nel file .csv andranno inseriti i nomi dei partecipanti con le relative mail associate. Il formato è il seguente:
+```
 Nome,Mail
 p1,mailp1
 ...,...
+```
 
 Avere un file .csv è opzionale: se volete basta creare direttamente all'interno del file una lista di tuple contenente i dati, es.:
+```
 [('Persona1', 'mailPersona1'), ('Persona2', 'mailPersona2'), ...]
-
+```
 Nella prima parte di codice, dopo aver letto il file csv e creato le strutture dati d'appoggio, il programma farà un'estrazione casuale, in modo che a cascuna persona, definita "Babbo", ne venga associata un'altra, definita "Bimbo".
 
 Nella seconda parte di codice, si inseriscono i dati che predispongono l'invio di mail tramite un account di posta elettronica.
