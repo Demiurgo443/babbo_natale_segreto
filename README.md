@@ -7,7 +7,7 @@ Sostituisce la versione "cartacea", il che è molto comodo nel caso in cui non v
 Questo software è una versione acerba, ma funzionale di "Babbo Natale Segreto".
 
 Occorrente:
-1 file .csv (opzionale)
+1 file .csv (opzionale),
 1 mail
 
 Nel file .csv andranno inseriti i nomi dei partecipanti con le relative mail associate. Il formato è il seguente:
